@@ -1,0 +1,11 @@
+Feature ID,m/z,RT (minutes),Annotation,Abbreviations,Formula,KEGG ID,HMDB ID,Confirmed with Standard
+1,217.08,7.1,glutamyl alanine,glu-ala,C8H14N2O5,,HMDB0006248,No
+2,245.11,10.4,glutamyl valine,glu-val,C10H18N2O5,,HMDB0011172,No
+3,259.14,12.2,glutamyl isoleucine/leucine_1,glu-ile/leu_1,C11H20N2O5,,HMDB0011170,No
+4,259.14,12.8,glutamyl isoleucine/leucine_2,glu-ile/leu_2,C11H20N2O5,,HMDB0011171,No
+5,274.06,7.7,glutamyl glutamine,glu-gln,C10H17N3O6,,HMDB0011738,No
+6,275.09,12.6,glutamyl glutamate,glu-glu,C10H16N2O7,,HMDB0011737,No
+7,277.09,10.8,glutamyl methionine,glu-met,C10H18N2O5S,,HMDB0034367,No
+8,293.07,13.8,glutamyl phenylalanine,glu-phe,C14H18N2O5,,HMDB0000594,No
+9,306.07,9.2,glutamyl cysteinyl glycine (Glutathione),,,,,
+10,309.11,10.9,glutamyl tyrosine,,,,,
