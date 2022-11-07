@@ -1,9 +1,9 @@
 import streamlit as st
-import pandas as pd
 st.set_page_config(
     page_title="My Streamlit App",
     layout="wide"
 )
+import pandas as pd
 
 st.success("Hello World")
 
